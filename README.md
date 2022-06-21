@@ -10,12 +10,12 @@ I can quickly and efficiently join your team using continuous-integration method
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 
-🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/)
-🌱 I’m currently learning **Typescript**
-👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/)
-💬 Ask me about **Javascript and React.js**
-📫 How to reach me **tanvir.chowdhury.7575@gmail.com**
-📄 My Resume [Resume](https://drive.google.com/file/d/1WIpgyNlZR3Cpg3AC2UCkmWuzsT8R6DoK/view?usp=sharing)
+🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/) <br>
+🌱 I’m currently learning **Typescript** <br>
+👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/) <br>
+💬 Ask me about **Javascript and React.js** <br>
+📫 How to reach me **tanvir.chowdhury.7575@gmail.com** <br>
+📄 My Resume [Resume](https://drive.google.com/file/d/1WIpgyNlZR3Cpg3AC2UCkmWuzsT8R6DoK/view?usp=sharing) <br>
 
 
 ## 👨‍💻 Skills & Experiance: 
