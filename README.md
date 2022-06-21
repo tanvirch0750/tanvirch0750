@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tanvir Chowdhury</h1>
-<h3 align="center">An Industrious frontend developer</h3>
+<h2 align="center">An Industrious Frontend Developer and Detail Oriented Learner</h3>
 
 ### About Me
 
