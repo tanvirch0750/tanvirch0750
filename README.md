@@ -38,6 +38,7 @@ I can quickly and efficiently join your team using continuous-integration method
 <a href="https://linkedin.com/in/tanvirc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirc" height="30" width="40" /></a>
 </p>
 
+## Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirch0750)](https://github.com/anuraghazra/github-readme-stats)
 
