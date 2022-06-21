@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tanvir Chowdhury</h1>
 <h3 align="center">An Industrious frontend developer</h3>
 
+### About Me
+
+I’m Mohammad Tanvir Chowdhury and I am a Front-End Web Developer. It's been 2 years, I’m working as a Frontend Developer. I create successful websites that are fast, easy to use, and built with best practices. I use HTML, CSS, JavaScript and React to produce responsive websites and web apps that provide users the best and most appropriate experience suited to their device and browser. I am also experienced in building systems that implement business logic and interact with server-side technology via APIs.
+
+I can quickly and efficiently join your team using continuous-integration methods and tools such as Git.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirch0750" alt="tanvirch0750" /></a> </p>
