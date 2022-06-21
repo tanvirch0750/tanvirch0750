@@ -39,6 +39,3 @@ I can quickly and efficiently join your team using continuous-integration method
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirch0750)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvirch0750&show_icons=true&locale=en" alt="tanvirch0750" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvirch0750&" alt="tanvirch0750" /></p>
