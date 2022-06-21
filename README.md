@@ -7,6 +7,8 @@ I’m Mohammad Tanvir Chowdhury and I am a Front-End Web Developer. It's been 2 
 
 I can quickly and efficiently join your team using continuous-integration methods and tools such as Git.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
+
 
 ## 👨‍💻 Skills & Experiance: 
 
@@ -17,8 +19,6 @@ I can quickly and efficiently join your team using continuous-integration method
 ✅ Nodejs / MongoDB / Express <br>
 ✅ Firebase / Git <br>
 ✅ Photoshop / Figma <br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 
 - 🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/)
@@ -38,6 +38,7 @@ I can quickly and efficiently join your team using continuous-integration method
 </p>
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&layout=compact)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirch0750)](https://github.com/anuraghazra/github-readme-stats)
