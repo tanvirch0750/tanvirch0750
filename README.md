@@ -9,20 +9,13 @@ I can quickly and efficiently join your team using continuous-integration method
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvirch0750" alt="tanvirch0750" /></a> </p>
 
 - 🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/)
-
 - 🌱 I’m currently learning **Typescript**
-
 - 👨‍💻 All of my projects are available at [https://tanvir-chowdhury.netlify.app/](https://tanvir-chowdhury.netlify.app/)
-
 - 📝 I regularly write articles on [https://tanvir-chowdhury.netlify.app/blog.html](https://tanvir-chowdhury.netlify.app/blog.html)
-
 - 💬 Ask me about **Javascript and React.js**
-
 - 📫 How to reach me **tanvir.chowdhury.7575@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WIpgyNlZR3Cpg3AC2UCkmWuzsT8R6DoK/view?usp=sharing](https://drive.google.com/file/d/1WIpgyNlZR3Cpg3AC2UCkmWuzsT8R6DoK/view?usp=sharing)
 
 - ⚡ Fun fact **Chai is better than Coffee**
