@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tanvir Chowdhury</h1>
 <h2 align="center">An Industrious Frontend Developer and Detail Oriented Learner</h3>
 
+## 👨‍💻 My Skills: 
+
+✅ JavaScript / Typescript / Python <br>
+✅ React JS / Next JS / Django <br>
+✅ Redux / React Query <br>
+✅ Tailwind / Bootstrap <br>
+✅ Nodejs / MongoDB / Express / PostgreSQL <br>
+✅ Firebase / Git <br>
+✅ Photoshop / Figma <br>
+
 ### About Me
 
 I'm Mohammad Tanvir Chowdhury, a dedicated Frontend Developer based in Bangladesh. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Reactjs, NextJs, and Redux, I thrive on solving complex challenges to create seamless digital experiences.
@@ -25,15 +35,7 @@ When I'm not coding, you'll find me exploring the latest trends in technology, s
 📄 My Resume [Resume](https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view?usp=sharing) <br>
 
 
-## 👨‍💻 Skills & Experiance: 
 
-✅ JavaScript / Typescript / Python <br>
-✅ React JS / Next JS / Django <br>
-✅ Redux / React Query <br>
-✅ Tailwind / Bootstrap <br>
-✅ Nodejs / MongoDB / Express / PostgreSQL <br>
-✅ Firebase / Git <br>
-✅ Photoshop / Figma <br>
 
 
 ## Connect With Me:
