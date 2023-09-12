@@ -7,7 +7,7 @@
 ✅ React JS / Next JS / Django <br>
 ✅ Redux / React Query <br>
 ✅ Tailwind / Bootstrap <br>
-✅ Nodejs / MongoDB / Express / PostgreSQL <br>
+✅ Nodejs / MongoDB / Express / PostgreSQL, Prisma <br>
 ✅ Firebase / Git <br>
 ✅ Photoshop / Figma <br>
 
