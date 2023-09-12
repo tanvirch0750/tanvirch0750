@@ -3,13 +3,13 @@
 
 ## 👨‍💻 My Skills: 
 
-✅ JavaScript || Typescript || Python <br>
-✅ React JS || Next JS || Django <br>
-✅ Redux || React Query <br>
-✅ Tailwind || Bootstrap <br>
-✅ Nodejs || MongoDB || Express || PostgreSQL || Prisma <br>
-✅ Firebase || Git || Supabase <br>
-✅ Photoshop || Figma <br>
+✅ JavaScript | Typescript | Python <br>
+✅ React JS | Next JS | Django <br>
+✅ Redux | React Query <br>
+✅ Tailwind | Bootstrap <br>
+✅ Nodejs | MongoDB | Express | PostgreSQL | Prisma <br>
+✅ Firebase | Git | Supabase <br>
+✅ Photoshop | Figma <br>
 
 ### About Me
 
