@@ -3,28 +3,35 @@
 
 ### About Me
 
-I’m Mohammad Tanvir Chowdhury and I am a Front-End Web Developer. It's been 2 years, I’m working as a Frontend Developer. I create successful websites that are fast, easy to use, and built with best practices. I use HTML, CSS, JavaScript and React to produce responsive websites and web apps that provide users the best and most appropriate experience suited to their device and browser. I am also experienced in building systems that implement business logic and interact with server-side technology via APIs.
+I'm Mohammad Tanvir Chowdhury, a dedicated Frontend Developer based in Bangladesh. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Reactjs, NextJs, and Redux, I thrive on solving complex challenges to create seamless digital experiences.
 
-I can quickly and efficiently join your team using continuous-integration methods and tools such as Git.
+My skill set extends beyond the frontend, as I also have expertise in Python and Django, allowing me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
+
+My project portfolio reflects my commitment to innovation. I've worked on diverse projects, including a manufacturing company's e-commerce platform, a Book Tracker app to monitor reading progress, and a PC Builder website for assembling custom PCs. These experiences have honed my ability to collaborate, adapt, and continuously learn.
+
+As a lifelong learner, I completed a web development course at Programming Hero and further expanded my knowledge through CSE Fundamentals with Phitron. Additionally, my background includes a Web Design course at Creative It Institute in 2020.
+
+When I'm not coding, you'll find me exploring the latest trends in technology, seeking new challenges, and striving to make a positive impact in the digital world.
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 
 🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/) <br>
-🌱 I’m currently learning **Typescript** <br>
+🌱 I’m currently learning **Django** <br>
 👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/) <br>
-💬 Ask me about **Javascript and React.js** <br>
 📫 How to reach me **tanvir.chowdhury.7575@gmail.com** <br>
-📄 My Resume [Resume](https://drive.google.com/file/d/1WIpgyNlZR3Cpg3AC2UCkmWuzsT8R6DoK/view?usp=sharing) <br>
+📄 My Resume [Resume](https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view?usp=sharing) <br>
 
 
 ## 👨‍💻 Skills & Experiance: 
 
-✅ HTML5 / CSS3 / SASS <br>
-✅ JavaScript / Typescript <br>
-✅ React JS / Next JS<br>
+✅ JavaScript / Typescript / Python <br>
+✅ React JS / Next JS / Django <br>
+✅ Redux / React Query <br>
 ✅ Tailwind / Bootstrap <br>
-✅ Nodejs / MongoDB / Express <br>
+✅ Nodejs / MongoDB / Express / PostgreSQL <br>
 ✅ Firebase / Git <br>
 ✅ Photoshop / Figma <br>
 
