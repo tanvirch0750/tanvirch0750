@@ -28,7 +28,7 @@ When I'm not coding, you'll find me exploring the latest trends in technology, s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 
-🔭 I’m currently working on [Straptools](https://straptools-420cd.web.app/) <br>
+🔭 I’m currently working on [University Management](https://github.com/tanvirch0750/university-management-core-service) <br>
 🌱 I’m currently learning **Django** <br>
 👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/) <br>
 📫 How to reach me **tanvir.chowdhury.7575@gmail.com** <br>
