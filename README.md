@@ -13,7 +13,7 @@
 
 ### About Me
 
-I'm Mohammad Tanvir Chowdhury, a dedicated Frontend Developer based in Bangladesh. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Reactjs, NextJs, and Redux, I thrive on solving complex challenges to create seamless digital experiences.
+I'm Mohammad Tanvir Chowdhury, a dedicated Fullstack Developer based in Bangladesh. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Reactjs, NextJs, and Redux, I thrive on solving complex challenges to create seamless digital experiences.
 
 My skill set extends beyond the frontend, as I also have expertise in Python and Django, allowing me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
 
