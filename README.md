@@ -6,16 +6,16 @@
 ✅ JavaScript | Typescript | Python <br>
 ✅ React JS | Next JS | Django <br>
 ✅ Redux | React Query <br>
-✅ Tailwind | Bootstrap <br>
+✅ Tailwind | Ant Design | Bootstrap <br>
 ✅ Nodejs | MongoDB | Express | PostgreSQL | Prisma <br>
-✅ Firebase | Git | Supabase <br>
-✅ Photoshop | Figma <br>
+✅ Firebase | Supabase <br>
+✅ Git | Photoshop | Figma <br>
 
 ### About Me
 
-I'm Mohammad Tanvir Chowdhury, a dedicated Fullstack Developer based in Bangladesh. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
+I'm Mohammad Tanvir Chowdhury, a Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
 
-My skill set extends beyond the frontend, as I also have expertise in Python and Django, allowing me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
+My skill set extends beyond the MERN stack, as I also have knowledge and build few projects with Python and Django. So all this technologies allowing me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
 
 My project portfolio reflects my commitment to innovation. I've worked on diverse projects, including a manufacturing company's e-commerce platform, a Book Tracker app to monitor reading progress, and a PC Builder website for assembling custom PCs. These experiences have honed my ability to collaborate, adapt, and continuously learn.
 
