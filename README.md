@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Tanvir Chowdhury</h1>
-<h2 align="center">Transforming Ideas into Digital Masterpieces</h3>
+<h2 align="center">Delivering Scalable and Efficient Web Development Solutions</h3>
 
 ## 👨‍💻 My Skills: 
 
@@ -28,25 +28,24 @@ When I'm not coding, you'll find me exploring the latest trends in technology, s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
 
-🔭 I’m currently working on [University Management](https://github.com/tanvirch0750/university-management-core-service) <br>
-🌱 I’m currently learning **Django** <br>
+🔭 I’m currently working on [lux Attire](https://github.com/tanvirch0750/Lux-Attire) <br>
+🌱 I’m currently learning **Advance Next Js** <br>
 👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/) <br>
-📫 How to reach me **tanvir.chowdhury.7575@gmail.com** <br>
+📫 How to reach me **tanvirch7575@gmail.com** <br>
 📄 My Resume [Resume](https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view?usp=sharing) <br>
 
 
+## 🌐 Connect With Me:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tanvirch) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirchowdhury.shahib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mtc0750) 
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tanvirch0750&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tanvirch0750&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## Connect With Me:
-
-<p align="left">
-<a href="https://twitter.com/mtc0750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mtc0750" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanvirc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvirc" height="30" width="40" /></a>
-</p>
-
-## Github Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&layout=compact) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirch0750)](https://github.com/anuraghazra/github-readme-stats)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tanvirch0750&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
