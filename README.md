@@ -1,5 +1,7 @@
 # Hi 👋, I'm Mohammad Tanvir Chowdhury | Delivering Scalable and Efficient Web Development Solutions
 
+
+
 ## 👨‍💻 My Skills: 
 
 ✅ JavaScript | Typescript | Python <br>
@@ -10,18 +12,18 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <br>
 
+
 ## 🙍🏻‍♂️ About Me
 
-I'm Mohammad Tanvir Chowdhury, a Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
+I am aspiring Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
 
-My skill set extends beyond the MERN stack, as I also have knowledge and build few projects with Python and Django. So all this technologies allowing me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
+My skill set extends beyond the MERN stack, as I also have knowledge and build a few projects with Python and Django. So all these technologies allow me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
 
 My project portfolio reflects my commitment to innovation. I've worked on diverse projects, including a manufacturing company's e-commerce platform, a Book Tracker app to monitor reading progress, and a PC Builder website for assembling custom PCs. These experiences have honed my ability to collaborate, adapt, and continuously learn.
 
-As a lifelong learner, I completed a web development course at Programming Hero and further expanded my knowledge through CSE Fundamentals with Phitron. Additionally, my background includes a Web Design course at Creative It Institute in 2020.
+As a lifelong learner, I completed a web development course at Programming Hero and expanded my knowledge through CSE Fundamentals with Phitron. Additionally, my background includes a Web Design course at Creative It Institute in 2020.
 
 When I'm not coding, you'll find me exploring the latest trends in technology, seeking new challenges, and striving to make a positive impact in the digital world.
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
