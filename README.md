@@ -10,9 +10,7 @@
 ✅ Tailwind | Ant Design | Bootstrap <br>
 ✅ Nodejs | MongoDB | Express | PostgreSQL | Prisma <br>
 ✅ Firebase | Supabase <br>
-✅ Git | Photoshop | Figma <be>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
+✅ Git | Photoshop | Figma <br>
 
 
 ## 🙍🏻‍♂️ About Me
@@ -30,6 +28,7 @@ When I'm not coding, you'll find me exploring the latest trends in technology, s
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
 
 🔭 I’m currently working on [lux Attire](https://github.com/tanvirch0750/Lux-Attire) <br>
 🌱 I’m currently learning **Advance Next Js** <br>
