@@ -12,14 +12,14 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <be>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)]
+[GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
 
 
 ## 🙍🏻‍♂️ About Me
 
 I am aspiring Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
 
-My skill set extends beyond the MERN stack, as I also have knowledge and build a few projects with Python and Django. So all these technologies allow me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
+My skill set extends beyond the MERN stack, as I also have knowledge and have built a few projects with Python and Django. So all these technologies allow me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
 
 My project portfolio reflects my commitment to innovation. I've worked on diverse projects, including a manufacturing company's e-commerce platform, a Book Tracker app to monitor reading progress, and a PC Builder website for assembling custom PCs. These experiences have honed my ability to collaborate, adapt, and continuously learn.
 
