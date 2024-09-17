@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Tanvir Chowdhury</h1>
-<h2 align="center">Delivering Scalable and Efficient Web Development Solutions</h3>
+# Hi 👋, I'm Mohammad Tanvir Chowdhury | Delivering Scalable and Efficient Web Development Solutions
 
 ## 👨‍💻 My Skills: 
 
@@ -11,7 +10,7 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <br>
 
-### About Me
+## 🙍🏻‍♂️ About Me
 
 I'm Mohammad Tanvir Chowdhury, a Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
 
