@@ -12,7 +12,7 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <be>
 
-[GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
 
 
 ## 🙍🏻‍♂️ About Me
