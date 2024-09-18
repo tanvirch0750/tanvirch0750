@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mohammad Tanvir Chowdhury | Delivering Scalable and Efficient Web Development Solutions
+# Delivering Scalable and Efficient Web Development Solutions
 
 
 
