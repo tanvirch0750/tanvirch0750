@@ -15,15 +15,17 @@
 
 ## 🙍🏻‍♂️ About Me
 
-I am aspiring Fullstack Developer. My passion lies in crafting engaging and user-friendly web applications using cutting-edge technologies. With a strong foundation in JavaScript, Typescript, Nodejs, Reactjs, NextJs, and Redux, I'm used to solving complex challenges to create seamless digital experiences.
+Hello, I'm Mohammad Tanvir Chowdhury, and I am a passionate full-stack developer with expertise in building scalable and high-performance web applications using modern technologies such as JavaScript, TypeScript, React, Node.js, and MongoDB. My strong foundation in front-end and back-end development, paired with experience in designing RESTful APIs, ensures seamless integration and optimal user experiences.
 
-My skill set extends beyond the MERN stack, as I also have knowledge and have built a few projects with Python and Django. So all these technologies allow me to build comprehensive web solutions. I'm committed to delivering responsive, visually appealing designs while ensuring optimal functionality and performance.
+With a sharp focus on clean code, maintainability, and continuous learning, I love working in dynamic environments and enjoy solving complex problems. I am driven by innovation and collaboration, consistently seeking to improve processes and deliver exceptional results that align with business goals.
 
-My project portfolio reflects my commitment to innovation. I've worked on diverse projects, including a manufacturing company's e-commerce platform, a Book Tracker app to monitor reading progress, and a PC Builder website for assembling custom PCs. These experiences have honed my ability to collaborate, adapt, and continuously learn.
+As a Front-End Developer Intern at View AI from December 2023 to June 2024, I designed and developed the company’s landing page, creating an engaging first touchpoint for visitors. I also implemented an interactive dashboard that allowed users to upload CSV files, transforming raw data into insightful visual graphs for better decision-making. My focus on enhancing the user experience contributed to improved navigation and overall satisfaction, aligning with View AI’s mission to empower enterprises with AI-driven solutions.
 
-As a lifelong learner, I completed a web development course at Programming Hero and expanded my knowledge through CSE Fundamentals with Phitron. Additionally, my background includes a Web Design course at Creative It Institute in 2020.
+I’m inspired by the opportunity to help people through my work. Seeing how technology can make a positive impact on lives motivates me to create solutions that solve real problems and improve experiences. The chance to contribute to meaningful change and support others drives my passion for development. Every project is an opportunity to make a difference, and that’s what keeps me going.
 
-When I'm not coding, you'll find me exploring the latest trends in technology, seeking new challenges, and striving to make a positive impact in the digital world.
+I’m passionate about staying ahead of the curve in technology, and I love diving into tech blogs to explore the latest trends, innovations, and best practices. Reading these insights not only keeps me informed but also fuels my curiosity and drives me to continually enhance my skills and knowledge. It’s through these learnings that I find new ways to innovate and deliver better solutions in my work.
+
+I have completed three comprehensive courses, including advanced training in React.js and Next.js through the Reactive Accelerator, full-stack web development with Programming Hero, and a deep dive into computer science fundamentals with Phitron. These courses have equipped me with expertise in front-end and back-end technologies, state management, server-side rendering, and problem-solving through algorithms and data structures.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
