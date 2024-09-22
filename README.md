@@ -34,7 +34,7 @@ I have completed three comprehensive courses, including advanced training in Rea
 
 🔭 I’m currently working on [lux Attire](https://github.com/tanvirch0750/Lux-Attire) <br>
 🌱 I’m currently learning **Advance Next Js** <br>
-👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.netlify.app/) <br>
+👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.vercel.app/) <br>
 📫 How to reach me **tanvirch7575@gmail.com** <br>
 📄 My Resume [Resume](https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view?usp=sharing) <br>
 
