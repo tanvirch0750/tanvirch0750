@@ -21,10 +21,6 @@ With a sharp focus on clean code, maintainability, and continuous learning, I lo
 
 As a Front-End Developer Intern at View AI from December 2023 to June 2024, I designed and developed the company’s landing page, creating an engaging first touchpoint for visitors. I also implemented an interactive dashboard that allowed users to upload CSV files, transforming raw data into insightful visual graphs for better decision-making. My focus on enhancing the user experience contributed to improved navigation and overall satisfaction, aligning with View AI’s mission to empower enterprises with AI-driven solutions.
 
-I’m inspired by the opportunity to help people through my work. Seeing how technology can make a positive impact on lives motivates me to create solutions that solve real problems and improve experiences. The chance to contribute to meaningful change and support others drives my passion for development. Every project is an opportunity to make a difference, and that’s what keeps me going.
-
-I’m passionate about staying ahead of the curve in technology, and I love diving into tech blogs to explore the latest trends, innovations, and best practices. Reading these insights not only keeps me informed but also fuels my curiosity and drives me to continually enhance my skills and knowledge. It’s through these learnings that I find new ways to innovate and deliver better solutions in my work.
-
 I have completed three comprehensive courses, including advanced training in React.js and Next.js through the Reactive Accelerator, full-stack web development with Programming Hero, and a deep dive into computer science fundamentals with Phitron. These courses have equipped me with expertise in front-end and back-end technologies, state management, server-side rendering, and problem-solving through algorithms and data structures.
 
 
