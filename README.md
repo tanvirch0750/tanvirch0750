@@ -12,8 +12,6 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <br>
 
-![Javascript](https://tanvir-chowdhury.vercel.app/assets/tech-icons/javascript-svgrepo-com.svg){width=50 height=50} ![Typescript](https://tanvir-chowdhury.vercel.app/assets/tech-icons/typescript-icon-svgrepo-com.svg){width=50 height=50}
-
 ## 🙍🏻‍♂️ About Me
 
 Hello, I'm Mohammad Tanvir Chowdhury, and I am a passionate full-stack developer with expertise in building scalable and high-performance web applications using modern technologies such as JavaScript, TypeScript, React, Node.js, and MongoDB. My strong foundation in front-end and back-end development, paired with experience in designing RESTful APIs, ensures seamless integration and optimal user experiences.
