@@ -12,6 +12,7 @@
 ✅ Firebase | Supabase <br>
 ✅ Git | Photoshop | Figma <br>
 
+![Javascript](https://tanvir-chowdhury.vercel.app/assets/tech-icons/javascript-svgrepo-com.svg){width=50 height=50} ![Typescript](https://tanvir-chowdhury.vercel.app/assets/tech-icons/typescript-icon-svgrepo-com.svg){width=50 height=50}
 
 ## 🙍🏻‍♂️ About Me
 
