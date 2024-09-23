@@ -1,6 +1,6 @@
 # Bringing Vision to Life Through Code
 
-![cover photo](https://media.licdn.com/dms/image/v2/D5616AQEDLmyU75Y2JQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698342175069?e=1732752000&v=beta&t=7HUZNNoiNmlRTp4QVnSR1FoRgJDQBYG-NUx-xrpldRo)
+
 
 ## 👨‍💻 My Skills: 
 
