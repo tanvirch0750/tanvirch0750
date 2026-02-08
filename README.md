@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 🙍🏻‍♂️ About Me
 
 I’m a **Full Stack Developer with 2+ years of professional experience** building scalable, high-performance web applications using **React, Next.js, and Node.js**.
 
@@ -143,8 +143,6 @@ Scalable online shopping platform with admin system.
 ![Profile Views](https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&layout=compact)
 
 ---
 
