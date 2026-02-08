@@ -1,47 +1,151 @@
-# Bringing Vision to Life Through Code
+# 👋 Hi, I'm Mohammad Tanvir Chowdhury  
+### Full Stack Developer | React • Next.js • Node.js • AI Integration
 
-![cover photo](https://media.licdn.com/dms/image/v2/D5616AQEDLmyU75Y2JQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698342175069?e=1760572800&v=beta&t=3mz1eMS1uLZRUjP_x6LolaWEh-ldMbK6HSuWqgVI1sE)
+![cover](https://i.ibb.co.com/Cp1g2SJj/tanvir.jpg)
 
-## 👨‍💻 My Skills: 
+📍 Chandpur, Bangladesh  
+💼 Full Stack Developer (Remote)  
+🌍 Open to Global Opportunities  
 
-✅ JavaScript | Typescript | Python <br>
-✅ React JS | Next JS | Django <br>
-✅ Redux | React Query <br>
-✅ Tailwind | Ant Design | Bootstrap <br>
-✅ Nodejs | MongoDB | Express | PostgreSQL | Prisma <br>
-✅ Firebase | Supabase <br>
-✅ Git | Photoshop | Figma <br>
+---
 
-## 🙍🏻‍♂️ About Me
+## 🚀 About Me
 
-Hello, I'm Mohammad Tanvir Chowdhury, and I am a passionate full-stack developer with expertise in building scalable and high-performance web applications using modern technologies such as JavaScript, TypeScript, React, Node.js, and MongoDB. My strong foundation in front-end and back-end development, paired with experience in designing RESTful APIs, ensures seamless integration and optimal user experiences.
+I’m a **Full Stack Developer with 2+ years of professional experience** building scalable, high-performance web applications using **React, Next.js, and Node.js**.
 
-With a sharp focus on clean code, maintainability, and continuous learning, I love working in dynamic environments and enjoy solving complex problems. I am driven by innovation and collaboration, consistently seeking to improve processes and deliver exceptional results that align with business goals.
+I specialize in:
 
-As a Front-End Developer Intern at View AI from December 2023 to June 2024, I designed and developed the company’s landing page, creating an engaging first touchpoint for visitors. I also implemented an interactive dashboard that allowed users to upload CSV files, transforming raw data into insightful visual graphs for better decision-making. My focus on enhancing the user experience contributed to improved navigation and overall satisfaction, aligning with View AI’s mission to empower enterprises with AI-driven solutions.
+- Designing clean, secure, and maintainable architectures  
+- Building AI-powered products for startups  
+- Creating fast, accessible, user-focused interfaces  
+- Developing reliable backend systems and APIs  
 
-I have completed three comprehensive courses, including advanced training in React.js and Next.js through the Reactive Accelerator, full-stack web development with Programming Hero, and a deep dive into computer science fundamentals with Phitron. These courses have equipped me with expertise in front-end and back-end technologies, state management, server-side rendering, and problem-solving through algorithms and data structures.
+Currently, I work remotely with a US-based startup, delivering **AI-driven platforms** used by real clients worldwide.
 
+I believe in **writing quality code, thinking like a product owner, and shipping features that matter.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20views&color=0e75b6&style=flat" alt="tanvirch0750" /> </p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- JavaScript | TypeScript  
+- React | Next.js  
+- Redux | Zustand | TanStack Query  
+- GSAP | Tailwind CSS | Shadcn UI | HTML5  
+
+### Backend
+- Node.js | Express.js | Nest.js  
+- GraphQL  
+- MongoDB | PostgreSQL | MySQL  
+- Prisma | Mongoose  
+- AI Integration  
+
+### Tools & DevOps
+- Git | Docker | CI/CD  
+- AWS (Basic) | Vercel | Redis  
+- Firebase | Jest  
+- Figma  
+
+---
+
+## 💼 Professional Experience
+
+### 🚀 Full Stack Developer — Standard Insights (USA, Remote)  
+**Oct 2024 – Present**
+
+- Built and maintained a scalable AI-powered survey platform  
+- Designed high-performance REST APIs (↑40% efficiency)  
+- Improved UI performance by 30%  
+- Integrated AI for sentiment analysis & reporting (↓95% manual work)  
+- Set up automated testing & CI/CD pipelines  
+- Collaborated with global teams  
+
+---
+
+### 🎨 Frontend Developer — View AI (Canada, Remote)  
+**Dec 2023 – Jun 2024**
+
+- Developed interactive XAI dashboards  
+- Built reusable data visualization components  
+- Improved onboarding speed by 40%  
+- Reduced load time by 45%  
+- Worked closely with ML engineers  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Career Dock — AI Career Platform
+AI-powered career management system for job seekers.
+
+**Features**
+- Resume & Cover Letter Generator (Gemini AI)  
+- Application Tracking Dashboard  
+- Recruiter Management  
+- Career Analytics  
+
+**Tech:** Next.js, TypeScript, Express, MongoDB, Clerk, Gemini AI  
+
+🔗 Live | GitHub  
+
+---
+
+### 🔹 Luxe Attire — E-Commerce Platform
+Scalable online shopping platform with admin system.
+
+**Features**
+- Secure Payments (Stripe)  
+- Admin Dashboard  
+- Inventory Management  
+- Role-Based Auth  
+
+**Tech:** Next.js, Node.js, MongoDB, Redux, NextAuth  
+
+🔗 Live | GitHub  
+
+---
+
+## 📜 Certifications & Training
+
+- ✅ Meta Frontend Developer — 2024  
+- ✅ Full Stack Development — Programming Hero (2024)  
+- ✅ CSE Fundamentals — Phitron (2023)  
+- ✅ UI/UX Design — Coursera (2023)  
+
+---
+
+## 🎓 Education
+
+- MBA — National University, Bangladesh  
+- BBA — National University, Bangladesh  
+
+---
+
+## 🌐 Portfolio & Contact
+
+🌍 Portfolio: https://tanvir-chowdhury.vercel.app  
+📧 Email: tanvir.chowdhury532@gmail.com  
+📄 Resume: https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view  
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/tanvirch0750)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/tanvirchowdhury.shahib)
+
+---
+
+## 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=tanvirch0750&label=Profile%20Views&color=0e75b6&style=flat)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tanvirch0750)
 
-🔭 I’m currently working on [lux Attire](https://github.com/tanvirch0750/Lux-Attire) <br>
-🌱 I’m currently learning **Advance Next Js** <br>
-👨‍💻 All of my projects are available at [Tanvir Portfolio](https://tanvir-chowdhury.vercel.app/) <br>
-📫 How to reach me **tanvirch7575@gmail.com** <br>
-📄 My Resume [Resume](https://drive.google.com/file/d/11CdWMHTwinHUwuIeIRtALg-x9HoSYa0H/view?usp=sharing) <br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&layout=compact)
 
+---
 
-## 🌐 Connect With Me:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tanvirch) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirchowdhury.shahib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@mtc0750) 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirch0750&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tanvirch0750&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
+⭐ *“I build products that users love and businesses trust.”*
