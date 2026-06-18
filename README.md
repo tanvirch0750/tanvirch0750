@@ -11,7 +11,7 @@
 
 ## 🙍🏻‍♂️ About Me
 
-I’m a **Full Stack Developer with 2+ years of professional experience** building scalable, high-performance web applications using **React, Next.js, and Node.js**.
+I’m a **Full Stack Developer with 3 years of professional experience** building scalable, high-performance web applications using **React, Next.js, and Node.js**.
 
 I specialize in:
 
@@ -64,7 +64,7 @@ I believe in **writing quality code, thinking like a product owner, and shipping
 ---
 
 ### 🎨 Frontend Developer — View AI (Canada, Remote)  
-**Dec 2023 – Jun 2024**
+**July 2023 – September 2024**
 
 - Developed interactive XAI dashboards  
 - Built reusable data visualization components  
