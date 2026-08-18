@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://i.ibb.co.com/Mx2RYpLF/Chat-GPT-Image-Aug-9-2026-07-14-51-PM.png"
-    alt="Mohammad Tanvir Chowdhury — AI Automation and Full-Stack Systems"
+    alt="Mohammad Tanvir Chowdhury — AI Automation & Full-Stack Engineer"
     width="100%"
   />
 </p>
@@ -9,334 +9,608 @@
 <h1 align="center">Mohammad Tanvir Chowdhury</h1>
 
 <p align="center">
-  <strong>AI Automation & Full-Stack Engineer · Systems Builder · Business-Minded Product Engineer</strong>
+  <strong>AI Automation & Full-Stack Engineer · Systems Builder · Business-Minded Technologist</strong>
 </p>
 
 <p align="center">
-  I turn operational friction, manual workflows, and product ideas into dependable software systems.
+  I design and build AI-powered systems, automations, and full-stack products that remove operational friction and solve real business problems.
 </p>
 
 <p align="center">
   <a href="https://tanvir.qom.bd/"><strong>Website ↗</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://operithm.vercel.app/"><strong>Operithm ↗</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanvirc"><strong>LinkedIn ↗</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tanvirch0750?tab=repositories"><strong>Explore my work ↗</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/tanvirch0750?tab=repositories"><strong>Repositories ↗</strong></a>
 </p>
 
 ---
 
-## I don't start with the stack. I start with the bottleneck.
+## I don't start with the stack. I start with the problem.
 
-A workflow gets copied between five tools.  
-A team spends hours turning data into a report.  
-A founder has a product idea but no clear path to production.  
-A useful AI capability exists, but it isn't connected to the way the business actually works.
+A team is repeating the same workflow every day.
 
-**Those are the problems I like solving.**
+A founder has a product idea but no clear technical path.
 
-For 3+ years, I've worked across frontend, backend, databases, APIs, AI workflows, infrastructure, and product delivery — increasingly focused on building software that creates a measurable operational or business outcome.
+Business data lives across spreadsheets, APIs, emails, dashboards, and disconnected tools.
 
-My background also includes **BBA + MBA training**, so I naturally think beyond implementation:
+An AI capability exists — but it isn't connected to the actual workflow.
 
-**What does this system replace? What does it accelerate? Where can it fail? Who owns it? And what changes for the business once it exists?**
+**That's where I like to work.**
 
----
+For 3+ years, I've worked across frontend, backend, databases, APIs, AI workflows, infrastructure, and deployment — with an increasing focus on one question:
 
-## What I build
+> **How can software and AI create a measurable business outcome?**
 
-| When the problem looks like... | I build... |
-|---|---|
-| People repeatedly copy, chase, classify, summarize, or update information | **AI & workflow automation** |
-| Operations live across spreadsheets, messages, and disconnected tools | **Internal tools, dashboards & business systems** |
-| A product idea needs to become something customers can actually use | **SaaS & full-stack web products** |
-| Teams need trustworthy answers from documents or internal knowledge | **RAG, LLM & knowledge systems** |
-| Software doesn't exchange data cleanly | **APIs, integrations & data workflows** |
-| An agency needs engineering capacity without building a full internal team | **White-label technical delivery** |
-| AI should perform useful work rather than just generate text | **Assistants, agents & bounded AI workflows** |
+My background also includes both a **BBA and MBA**, which shapes how I approach engineering.
 
-The common thread is simple:
+I don't only think about:
 
-> **Understand the real constraint → design the right system → ship it reliably.**
+`Can this be built?`
+
+I also think about:
+
+✓ What business problem does it solve?  
+✓ What manual work does it eliminate?  
+✓ Who will use it?  
+✓ How will it fit into the existing workflow?  
+✓ Where can it fail?  
+✓ How does it create measurable value?
 
 ---
 
-## Production impact
+# What I Build
 
-I've contributed to AI-powered consumer-research and web products where engineering improvements translated into measurable results:
+### ◆ AI Automation
+
+✓ Business process automation  
+✓ AI-assisted research and analysis  
+✓ Lead qualification workflows  
+✓ Automated reporting systems  
+✓ Data extraction and classification  
+✓ AI-powered internal operations  
+✓ Multi-step workflow orchestration  
+
+---
+
+### ◆ AI-Powered Applications
+
+✓ LLM integrations  
+✓ RAG and knowledge systems  
+✓ AI assistants  
+✓ Structured AI pipelines  
+✓ Multi-LLM workflows  
+✓ Agentic workflows  
+✓ AI-enabled SaaS products  
+
+---
+
+### ◆ Full-Stack Products
+
+✓ SaaS platforms  
+✓ Client portals  
+✓ Internal business tools  
+✓ Admin dashboards  
+✓ Data-heavy applications  
+✓ Customer-facing web products  
+✓ Multi-role platforms  
+
+---
+
+### ◆ Backend Systems & Integrations
+
+✓ REST APIs  
+✓ GraphQL APIs  
+✓ Third-party integrations  
+✓ Authentication and authorization  
+✓ Payment systems  
+✓ Database architecture  
+✓ Real-time systems  
+✓ Business logic and workflow engines  
+
+---
+
+# Production Impact
+
+I've contributed to production AI and full-stack systems where engineering improvements translated into measurable results.
 
 <table>
 <tr>
-<td width="25%" valign="top">
+
+<td width="25%" align="center">
 
 ### 95%
 
-**less analysis time**
+**Less Analysis Time**
 
-AI-powered sentiment analysis and automated reporting workflows.
+AI-powered sentiment analysis and automated reporting.
 
 </td>
-<td width="25%" valign="top">
+
+<td width="25%" align="center">
 
 ### 40%
 
-**backend improvement**
+**Backend Improvement**
 
 Improved data flow and API response performance.
 
 </td>
-<td width="25%" valign="top">
+
+<td width="25%" align="center">
 
 ### 30%
 
-**faster frontend**
+**Faster Frontend**
 
-Reduced application load times through frontend optimization.
+Reduced application load times through performance optimization.
 
 </td>
-<td width="25%" valign="top">
+
+<td width="25%" align="center">
 
 ### 50%
 
-**faster deployments**
+**Faster Delivery**
 
-CI/CD improvements alongside a 35% reduction in bugs.
+CI/CD improvements accelerated deployment cycles.
 
 </td>
+
 </tr>
 </table>
 
-At **Standard Insights**, I work across AI pipelines, product features, frontend architecture, APIs, performance, testing, and delivery for AI-enabled consumer-research products.
+---
 
-Previously at **View AI**, I worked on Explainable AI interfaces and data-heavy dashboards — translating model predictions, feature attribution, and performance data into experiences non-technical users could actually understand.
+# Professional Engineering Experience
+
+## Standard Insights
+
+**Full-Stack Developer · USA · Remote**
+
+I contribute to AI-powered consumer-research products across the full application stack.
+
+My work includes:
+
+✓ Building scalable web application features  
+✓ Developing AI-powered sentiment-analysis workflows  
+✓ Automating research and reporting processes  
+✓ Designing and optimizing REST APIs  
+✓ Building data-heavy interfaces with Next.js  
+✓ Improving application and API performance  
+✓ Creating CI/CD pipelines with GitHub Actions and Docker  
+✓ Working across product, data, frontend, backend, and AI workflows  
+
+A major part of my work has been helping transform complex consumer data into faster, more actionable business insights.
 
 ---
 
-## Selected systems
+## View AI
 
-### 01 — Operithm
-**AI automation + full-stack systems studio**
+**Frontend Developer · Canada · Remote**
 
-I'm building **[Operithm](https://operithm.vercel.app/)** around a simple idea: businesses usually don't need another disconnected tool — they need the missing system between the tools, people, data, and decisions they already have.
+At View AI, I worked on interfaces for **Explainable AI systems**.
 
-The studio is focused on:
+My focus was making complex AI outputs understandable for end users.
 
-`AI automation` · `business systems` · `client portals` · `integrations` · `AI assistants` · `full-stack products` · `white-label development`
+✓ Interactive XAI dashboards  
+✓ AI prediction visualization  
+✓ Feature-attribution interfaces  
+✓ Model-performance dashboards  
+✓ Data visualization  
+✓ Real-time API integration  
+✓ Frontend performance optimization  
+✓ Collaboration with AI/ML engineering teams  
 
-Designed primarily for **agencies, B2B service businesses, independent experts, and startups**.
+That experience strengthened something I still care about today:
 
-→ **[Explore Operithm](https://operithm.vercel.app/)**
-
----
-
-### 02 — Luxe Attire
-**Full-stack commerce system**
-
-A complete e-commerce application combining the customer experience with the operational side of commerce.
-
-**System capabilities**
-
-- Product, inventory and offer management
-- Authentication and protected experiences
-- Shopping cart and persistent state
-- Stripe payments + cash on delivery
-- Order management and tracking
-- Reviews and wishlists
-- Administrative dashboard
-- Automated order emails
-- Search, filtering and pagination
-
-**Built with:** Next.js · Node.js · MongoDB · Redux · Stripe · NextAuth · Tailwind CSS
-
-→ **[View repository](https://github.com/tanvirch0750/Lux-Attire)**  
-→ **[Live product](https://luxe-attire.vercel.app/)**
+> **Powerful technology only matters when people can actually understand and use it.**
 
 ---
 
-### 03 — Meet Ease
-**Booking & operational management platform**
+# Operithm — My AI & Software Agency
 
-A meeting-room booking product for co-working spaces, designed around both the customer booking journey and administrative operations.
+<a href="https://operithm.vercel.app/">
+  <strong>operithm.vercel.app →</strong>
+</a>
 
-**System capabilities**
+**Operithm is the agency I am building to provide AI automation, software development, and technical systems services to businesses, startups, agencies, and founders.**
 
-- Real-time room availability
-- Booking and scheduling workflows
-- Secure authentication
-- Role-based access control
-- Payment integration
-- Room and slot management
-- Booking approval workflows
-- Administrative analytics
+It is not a portfolio project.
 
-The important part isn't the booking UI — it's coordinating **availability, users, permissions, payments, bookings, and administrative state as one system.**
+It is the business through which I intend to help companies identify operational bottlenecks and build the systems needed to solve them.
 
-→ **[View repository](https://github.com/tanvirch0750/Meet-Ease-React)**  
-→ **[Live product](https://meet-easee.netlify.app/)**
+### Through Operithm, I focus on services such as:
 
----
-
-### 04 — Node.js Request Sender
-**API stress-testing utility**
-
-A multi-threaded Node.js tool built to generate large volumes of requests for API load and stress testing.
-
-Uses Node's `worker_threads` architecture to distribute work across workers, batch requests, support authenticated payloads, and measure execution performance.
-
-**Focus:** concurrency · API reliability · worker threads · batching · backend performance
-
-→ **[View repository](https://github.com/tanvirch0750/Node.js-Request-Sender-Stress-Testing-Tool-)**
+✓ AI automation  
+✓ Business workflow automation  
+✓ Custom internal tools  
+✓ SaaS development  
+✓ AI-powered applications  
+✓ Client portals  
+✓ API integrations  
+✓ Business dashboards  
+✓ AI assistants  
+✓ White-label development  
+✓ Full-stack product development  
+✓ Custom software systems  
 
 ---
 
-## My engineering map
+## The kind of business problems Operithm is designed to solve
 
-I prefer describing technologies by **what they help me own**, rather than collecting logos.
+### ◆ Manual Work
 
-### Product interfaces
+Teams repeatedly copy information, update spreadsheets, prepare reports, follow up with leads, or move data manually.
 
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `shadcn/ui` · `TanStack Query`
-
-Responsive products, dashboards, admin systems, client-facing experiences, complex state and data-heavy interfaces.
-
-### Application & API layer
-
-`Node.js` · `Express.js` · `NestJS` · `REST` · `GraphQL` · `Socket.io`
-
-Business logic, APIs, authentication, integrations, real-time systems and backend architecture.
-
-### Data
-
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Prisma`
-
-Schema design, application data, caching, querying, persistence and performance.
-
-### AI systems
-
-`LLMs` · `LangChain` · `LangGraph` · `RAG` · `Multi-LLM workflows`
-
-Retrieval, structured generation, AI-assisted analysis, classification, automation, tool-using workflows and knowledge systems.
-
-### Production
-
-`Docker` · `GitHub Actions` · `CI/CD` · `Git` · `Vercel`
-
-Testing, deployment, observability-minded engineering, performance optimization and maintainable delivery.
+**Solution → Automation systems**
 
 ---
 
-## Where AI fits in my work
+### ◆ Disconnected Tools
 
-I'm interested in AI when it has **a defined job inside a larger system**.
+Important business information exists across CRMs, spreadsheets, forms, APIs, messaging platforms, and internal tools.
+
+**Solution → Integrations + centralized systems**
+
+---
+
+### ◆ Operational Bottlenecks
+
+Processes depend too heavily on individual team members or repetitive administrative work.
+
+**Solution → Custom business software**
+
+---
+
+### ◆ AI Without a Workflow
+
+A company wants to use AI but does not need another standalone chatbot.
+
+**Solution → AI embedded into actual business processes**
+
+---
+
+### ◆ Product Ideas
+
+A founder or company has a product concept but needs the technical architecture and engineering to make it real.
+
+**Solution → Full-stack product development**
+
+---
+
+### ◆ Agency Delivery Capacity
+
+An agency needs technical execution without immediately building a larger permanent engineering team.
+
+**Solution → White-label development**
+
+---
+
+# Engineering Capabilities
+
+I prefer showing technologies by **what they allow me to build**, rather than displaying a wall of logos.
+
+---
+
+## ◆ Product Interfaces
+
+**React · Next.js · TypeScript · JavaScript · Tailwind CSS · shadcn/ui · TanStack Query**
+
+I use them to build:
+
+✓ SaaS interfaces  
+✓ Dashboards  
+✓ Admin panels  
+✓ Client portals  
+✓ Complex forms  
+✓ Data-heavy applications  
+✓ Responsive web products  
+
+---
+
+## ◆ Backend & Application Architecture
+
+**Node.js · Express.js · NestJS · REST · GraphQL · Socket.io**
+
+I use them for:
+
+✓ Business logic  
+✓ API architecture  
+✓ Authentication  
+✓ Authorization  
+✓ Integrations  
+✓ Background workflows  
+✓ Real-time communication  
+✓ Scalable application services  
+
+---
+
+## ◆ Data Layer
+
+**PostgreSQL · MongoDB · MySQL · Redis · Prisma**
+
+I work with:
+
+✓ Relational data  
+✓ Document databases  
+✓ Data modeling  
+✓ Query optimization  
+✓ Application persistence  
+✓ Caching  
+✓ High-volume application data  
+
+---
+
+## ◆ AI Engineering
+
+**LLMs · LangChain · LangGraph · RAG · Multi-LLM Pipelines**
+
+My AI work includes:
+
+✓ Retrieval systems  
+✓ AI-assisted research  
+✓ Knowledge systems  
+✓ Structured generation  
+✓ Data extraction  
+✓ Classification  
+✓ AI workflow orchestration  
+✓ Tool-using agents  
+✓ Internal AI assistants  
+
+---
+
+## ◆ Production & Delivery
+
+**Docker · GitHub Actions · CI/CD · Git · Vercel**
+
+I care about:
+
+✓ Reliable deployments  
+✓ Automated testing  
+✓ Maintainable architecture  
+✓ Performance optimization  
+✓ Production readiness  
+✓ Repeatable delivery workflows  
+
+---
+
+# How I Think About AI
+
+I am most interested in AI when it has **a defined responsibility inside a real system**.
 
 Not:
 
-`prompt → magic → hope`
+```text
+Prompt → AI → Hope
+```
 
 More like:
 
 ```text
-Event
-  ↓
-Validate input
-  ↓
-Retrieve context / data
-  ↓
-Apply deterministic rules
-  ↓
-Use AI where judgment is useful
-  ↓
-Validate the output
-  ↓
-Human approval when risk requires it
-  ↓
-Write back to the system
-  ↓
-Observe, retry or recover
+Business Event
+      ↓
+Validate Input
+      ↓
+Collect Context
+      ↓
+Retrieve Data
+      ↓
+Apply Business Rules
+      ↓
+Use AI Where Judgment Helps
+      ↓
+Validate Output
+      ↓
+Human Approval When Necessary
+      ↓
+Update Business System
+      ↓
+Monitor / Retry / Recover
 ```
 
-That can mean:
-
-- qualifying and enriching leads
-- extracting structured information
-- researching and synthesizing data
-- generating reports
-- searching internal knowledge
-- preparing responses
-- routing work
-- assisting internal teams
-- connecting AI to CRMs, APIs and databases
-- creating agentic workflows with clear boundaries
-
-**AI should reduce work without making the system harder to trust.**
+That's the difference between adding AI as a feature and engineering AI as part of an operational system.
 
 ---
 
-## How I work
+# Selected Technical Work
 
-**01 — Understand the business context**  
-Before choosing technology, understand the workflow, user, bottleneck, cost of failure and useful outcome.
+## ◆ Luxe Attire
 
-**02 — Design the smallest dependable system**  
-Avoid unnecessary complexity. Build enough architecture for the real problem and its likely next stage.
+**Full-Stack Commerce Platform**
 
-**03 — Own the complete path**  
-Frontend, backend, database, AI, integration, deployment — I am comfortable following a feature from rough idea to production.
+A complete e-commerce application covering both the customer experience and operational management.
 
-**04 — Engineer beyond the happy path**  
-Validation, permissions, failures, retries, maintainability and recovery matter just as much as the demo.
+### System capabilities
 
-**05 — Communicate clearly**  
-I work comfortably in remote, async environments and prefer visible decisions, clear ownership and maintainable handoffs.
+✓ Product management  
+✓ Authentication  
+✓ Shopping cart  
+✓ Persistent application state  
+✓ Stripe payments  
+✓ Cash on delivery  
+✓ Order management  
+✓ Order tracking  
+✓ Product reviews  
+✓ Wishlists  
+✓ Search and filtering  
+✓ Administrative dashboard  
+✓ Automated order emails  
+
+**Stack**
+
+`Next.js` · `Node.js` · `MongoDB` · `Redux` · `Stripe` · `NextAuth` · `Tailwind CSS`
+
+→ [View Repository](https://github.com/tanvirch0750/Lux-Attire)  
+→ [Live Application](https://luxe-attire.vercel.app/)
 
 ---
 
-## The intersection I'm building toward
+## ◆ Meet Ease
+
+**Meeting Room Booking & Management System**
+
+A platform designed around the complete booking workflow for co-working spaces.
+
+### System capabilities
+
+✓ Real-time room availability  
+✓ Scheduling  
+✓ Booking management  
+✓ Authentication  
+✓ Role-based access control  
+✓ Secure payments  
+✓ Room management  
+✓ Slot management  
+✓ Administrative workflows  
+✓ Revenue and booking dashboards  
+
+The important engineering challenge wasn't only creating a booking page.
+
+It was coordinating:
+
+`users → permissions → rooms → time slots → bookings → payments → administration`
+
+as one connected system.
+
+→ [View Repository](https://github.com/tanvirch0750/Meet-Ease-React)  
+→ [Live Application](https://meet-easee.netlify.app/)
+
+---
+
+## ◆ Node.js Request Sender
+
+**API Stress-Testing Utility**
+
+A multi-threaded Node.js utility designed for API load and stress testing.
+
+### Technical focus
+
+✓ Node.js `worker_threads`  
+✓ Parallel processing  
+✓ Request batching  
+✓ Custom authentication headers  
+✓ JSON request bodies  
+✓ Performance measurement  
+✓ High-volume API testing  
+
+→ [View Repository](https://github.com/tanvirch0750/Node.js-Request-Sender-Stress-Testing-Tool-)
+
+---
+
+# How I Work
+
+### 01 ◆ Understand the business
+
+Before choosing technology, I want to understand the workflow, users, constraints, bottlenecks, and desired outcome.
+
+---
+
+### 02 ◆ Design the system
+
+I prefer the smallest architecture that can solve the problem reliably without unnecessary complexity.
+
+---
+
+### 03 ◆ Build end-to-end
+
+I'm comfortable owning:
+
+✓ Frontend  
+✓ Backend  
+✓ Database  
+✓ APIs  
+✓ AI workflows  
+✓ Integrations  
+✓ Deployment  
+
+---
+
+### 04 ◆ Think beyond the happy path
+
+Production software also needs:
+
+✓ Validation  
+✓ Permissions  
+✓ Error handling  
+✓ Failure recovery  
+✓ Maintainability  
+✓ Performance  
+✓ Security considerations  
+
+---
+
+### 05 ◆ Communicate clearly
+
+I work comfortably with remote and async teams.
+
+✓ Clear technical communication  
+✓ Independent problem solving  
+✓ End-to-end ownership  
+✓ Cross-functional collaboration  
+✓ Comfortable working with ambiguity  
+
+---
+
+# Where My Work Sits
 
 ```text
-                    BUSINESS
-                       ▲
-                       │
-              measurable outcome
-                       │
-                       │
-AI / AUTOMATION ◄──────┼──────► PRODUCT ENGINEERING
-                       │
-                       │
-              dependable systems
-                       │
-                       ▼
-                  OPERATIONS
+                         BUSINESS
+                            ▲
+                            │
+                   measurable outcomes
+                            │
+                            │
+AI & AUTOMATION ◄───────────┼───────────► PRODUCT ENGINEERING
+                            │
+                            │
+                   dependable systems
+                            │
+                            ▼
+                       OPERATIONS
 ```
 
-That's where I want most of my work to live:
+This intersection is where I want most of my work to live.
 
-**technical enough to require strong engineering, practical enough to improve how a real business operates.**
+**Technical enough to require strong engineering.**
+
+**Practical enough to improve how a real business operates.**
+
+---
+
+# Who I Want to Work With
+
+I'm especially interested in working with:
+
+✓ Founders building software products  
+✓ Startups building AI-enabled products  
+✓ Businesses with expensive manual workflows  
+✓ B2B service businesses  
+✓ Agencies needing white-label development  
+✓ Product teams building AI or data-heavy systems  
+✓ Companies needing custom internal tools  
+✓ Teams integrating AI into existing software  
+✓ Developers and builders working on ambitious products  
 
 ---
 
-## Let's build something useful.
+# Let's Build Something Useful
 
-I'm interested in conversations with:
+If you're building a product, automating a workflow, or trying to connect AI with a real business process, I'm always interested in thoughtful conversations.
 
-- founders building AI-enabled or full-stack products
-- businesses with expensive manual workflows
-- agencies looking for reliable white-label engineering
-- product teams working on AI, data or operational systems
-- engineering teams looking for full-stack / AI automation capability
-- developers and builders working on interesting systems
+### Explore my work
 
-You can start with the work:
+→ **[Personal Website](https://tanvir.qom.bd/)**  
+→ **[GitHub Repositories](https://github.com/tanvirch0750?tab=repositories)**  
+→ **[LinkedIn](https://www.linkedin.com/in/tanvirc)**
 
-**[Personal website →](https://tanvir.qom.bd/)**  
-**[Operithm →](https://operithm.vercel.app/)**  
-**[GitHub repositories →](https://github.com/tanvirch0750?tab=repositories)**  
-**[LinkedIn →](https://www.linkedin.com/in/tanvirc)**
+### Looking for services?
 
----
+→ **[Work with Operithm](https://operithm.vercel.app/)**
 
 <p align="center">
+  <br>
   <strong>Build the system. Remove the friction. Make the result measurable.</strong>
 </p>
