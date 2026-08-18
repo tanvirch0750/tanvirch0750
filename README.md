@@ -26,8 +26,6 @@
 <p align="center">
   <a href="https://tanvir.qom.bd/"><strong>Website ↗</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://operithm.vercel.app/"><strong>Operithm ↗</strong></a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanvirc"><strong>LinkedIn ↗</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/tanvirch0750?tab=repositories"><strong>Repositories ↗</strong></a>
@@ -82,11 +80,11 @@ I also ask:
 
 ✅ Business process automation  
 ✅ AI-assisted research & analysis  
-✅ Lead qualification workflows  
 ✅ Automated reporting systems  
+✅ Lead qualification workflows  
 ✅ Data extraction & classification  
 ✅ Internal AI tools  
-✅ Multi-step workflow orchestration  
+✅ Multi-step AI workflows  
 ✅ Agentic workflows  
 
 </td>
@@ -113,13 +111,13 @@ I also ask:
 ### 💻 Full-Stack Products
 
 ✅ SaaS applications  
-✅ Client portals  
 ✅ Internal business tools  
+✅ Client portals  
 ✅ Admin dashboards  
 ✅ Data-heavy applications  
 ✅ Customer-facing platforms  
 ✅ Multi-role systems  
-✅ Custom web products  
+✅ Custom web applications  
 
 </td>
 
@@ -134,7 +132,7 @@ I also ask:
 ✅ Payment systems  
 ✅ Database architecture  
 ✅ Real-time systems  
-✅ Business logic & workflow engines  
+✅ Business logic & workflows  
 
 </td>
 </tr>
@@ -154,13 +152,123 @@ I also ask:
   <img src="https://img.shields.io/badge/50%25-Faster%20Deployments-EA580C?style=for-the-badge" />
 </p>
 
-I've contributed to production AI and full-stack products where engineering improvements translated into measurable outcomes.
-
-✅ **95% less analysis time** through AI-powered sentiment analysis and automated reporting workflows  
+✅ **95% less analysis time** through AI-powered sentiment analysis and automated reporting  
 ✅ **40% improvement** in backend data flow and API response performance  
 ✅ **30% reduction** in frontend load times through performance optimization  
 ✅ **35% fewer bugs** through automated testing and CI/CD improvements  
 ✅ **50% faster deployment cycles** using GitHub Actions and Docker  
+
+---
+
+# 🧩 Skills
+
+I use technology as a tool for solving problems — not as a collection of logos.
+
+### 🟣 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+✅ React.js  
+✅ Next.js  
+✅ TypeScript  
+✅ JavaScript  
+✅ Tailwind CSS  
+✅ shadcn/ui  
+✅ TanStack Query  
+✅ Responsive UI Development  
+✅ Dashboard Development  
+✅ Frontend Performance Optimization  
+
+---
+
+### 🔵 Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
+✅ Node.js  
+✅ Express.js  
+✅ NestJS  
+✅ REST APIs  
+✅ GraphQL  
+✅ Socket.io  
+✅ JWT Authentication  
+✅ API Architecture  
+✅ Role-Based Access Control  
+✅ Real-Time Applications  
+
+---
+
+### 🟢 Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+✅ PostgreSQL  
+✅ MongoDB  
+✅ MySQL  
+✅ Redis  
+✅ Database Design  
+✅ Data Modeling  
+✅ Query Optimization  
+✅ Caching Strategies  
+
+---
+
+### 🟣 AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI_Automation-9333EA?style=flat-square" />
+</p>
+
+✅ LLM Integrations  
+✅ LangChain  
+✅ LangGraph  
+✅ RAG Systems  
+✅ Multi-LLM Pipelines  
+✅ AI-Assisted Research  
+✅ Sentiment Analysis Workflows  
+✅ Structured AI Pipelines  
+✅ Workflow Automation  
+✅ AI-Powered Internal Tools  
+
+---
+
+### 🟠 DevOps & Production
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+✅ Docker  
+✅ GitHub Actions  
+✅ CI/CD  
+✅ Git  
+✅ Automated Testing  
+✅ Deployment Workflows  
+✅ Performance Optimization  
+✅ Clean Architecture  
 
 ---
 
@@ -171,8 +279,6 @@ I've contributed to production AI and full-stack products where engineering impr
 **Full-Stack Developer · Brooklyn, NY · Remote**
 
 I work on AI-powered consumer-research products across the full application stack.
-
-My work includes:
 
 ✅ Building scalable web application features  
 ✅ Developing AI-powered sentiment-analysis workflows  
@@ -206,100 +312,7 @@ It was turning complex AI model outputs into something understandable for people
 ✅ Frontend performance optimization  
 ✅ Collaboration with AI/ML engineering teams  
 
-That experience reinforced something I still believe:
-
 > **Powerful technology only matters when people can actually understand and use it.**
-
----
-
-## 🟠 Operithm — My AI & Software Agency
-
-<p>
-  <a href="https://operithm.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20Operithm-EA580C?style=for-the-badge" />
-  </a>
-</p>
-
-> ### I build the technology. Operithm delivers the service.
-
-**Operithm is my AI automation and software agency.**
-
-It is the business I'm building to help companies, startups, agencies, and founders solve operational problems through **AI automation, custom software, integrations, and full-stack product development**.
-
-Operithm is not another portfolio project.
-
-It is the agency through which I provide technical services and build systems around real business needs.
-
-### ◆ Services
-
-✅ **AI Automation** — automate repetitive and operational workflows  
-✅ **Business Process Automation** — reduce manual work between people and tools  
-✅ **Custom Software** — systems designed around specific business operations  
-✅ **AI Applications** — assistants, RAG systems, LLM workflows, and agents  
-✅ **SaaS Development** — turn product ideas into production applications  
-✅ **Internal Tools** — dashboards, portals, and operational platforms  
-✅ **API Integrations** — connect software, services, databases, and workflows  
-✅ **Client Portals** — custom experiences for customers and teams  
-✅ **White-Label Development** — technical delivery for agencies  
-✅ **Full-Stack Development** — frontend, backend, database, deployment  
-
----
-
-### ◆ The Problems Operithm Is Designed to Solve
-
-#### 🔁 Too Much Manual Work
-
-A team repeatedly copies information, updates spreadsheets, prepares reports, follows up with leads, or moves data between systems.
-
-**→ Build an automation system.**
-
----
-
-#### 🔗 Disconnected Tools
-
-Critical information is spread across CRMs, spreadsheets, APIs, forms, messaging platforms, and internal tools.
-
-**→ Connect them through integrations and centralized systems.**
-
----
-
-#### ⚙️ Operational Bottlenecks
-
-A process depends too heavily on repetitive administrative work or individual team members.
-
-**→ Build custom business software around the workflow.**
-
----
-
-#### 🤖 AI Without a Workflow
-
-A business wants AI but doesn't need another isolated chatbot.
-
-**→ Embed AI inside the actual operational process.**
-
----
-
-#### 🚀 Product Ideas
-
-A founder has an idea but needs the technical architecture and engineering to turn it into a working product.
-
-**→ Design and build the full-stack product.**
-
----
-
-#### 🏢 Agency Delivery Capacity
-
-An agency needs additional technical execution without immediately expanding its permanent development team.
-
-**→ Operithm provides white-label engineering support.**
-
----
-
-<p align="center">
-  <a href="https://operithm.vercel.app/">
-    <img src="https://img.shields.io/badge/Explore%20Operithm-Work%20With%20The%20Agency-EA580C?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
@@ -307,10 +320,14 @@ An agency needs additional technical execution without immediately expanding its
 
 My business education influences the way I approach software.
 
-I don't see engineering as just:
+I don't see engineering as only:
 
 ```text
-Requirement → Code → Deploy
+Requirement
+    ↓
+  Code
+    ↓
+ Deploy
 ```
 
 I think more like:
@@ -333,101 +350,15 @@ Improve the System
 
 ### ◆ What this changes in practice
 
-✅ I try to understand the business before choosing technology  
-✅ I care about ROI, efficiency, and operational outcomes  
-✅ I think about how people actually use the system  
-✅ I avoid unnecessary technical complexity  
-✅ I consider maintenance and ownership after launch  
-✅ I connect engineering decisions to measurable outcomes  
+✅ Understand the business before choosing technology  
+✅ Think about ROI, efficiency, and operational outcomes  
+✅ Consider how people actually use the system  
+✅ Avoid unnecessary technical complexity  
+✅ Think about maintenance and ownership after launch  
+✅ Connect engineering decisions to measurable outcomes  
 
-> ### The goal isn't more software.  
+> ### The goal isn't more software.
 > ### The goal is a better-running business because of the software.
-
----
-
-## 🔵 Engineering Capabilities
-
-I prefer describing technologies by **what they allow me to build**, rather than displaying a giant wall of logos.
-
-### ◆ Product Interfaces
-
-`React.js` · `Next.js` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `shadcn/ui` · `TanStack Query`
-
-I use them to build:
-
-✅ SaaS interfaces  
-✅ Dashboards  
-✅ Admin panels  
-✅ Client portals  
-✅ Complex forms  
-✅ Data-heavy applications  
-✅ Responsive web products  
-
----
-
-### ◆ Backend & Application Architecture
-
-`Node.js` · `Express.js` · `NestJS` · `REST` · `GraphQL` · `Socket.io`
-
-I use them for:
-
-✅ Business logic  
-✅ API architecture  
-✅ Authentication  
-✅ Authorization  
-✅ Third-party integrations  
-✅ Background workflows  
-✅ Real-time communication  
-✅ Scalable application services  
-
----
-
-### ◆ Data Layer
-
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Prisma`
-
-I work with:
-
-✅ Relational databases  
-✅ Document databases  
-✅ Data modeling  
-✅ Query optimization  
-✅ Application persistence  
-✅ Caching  
-✅ High-volume application data  
-
----
-
-### ◆ AI Engineering
-
-`LLMs` · `LangChain` · `LangGraph` · `RAG` · `Multi-LLM Pipelines`
-
-My AI work includes:
-
-✅ Retrieval systems  
-✅ AI-assisted research  
-✅ Knowledge systems  
-✅ Structured generation  
-✅ Information extraction  
-✅ Classification  
-✅ AI workflow orchestration  
-✅ Tool-using agents  
-✅ Internal AI assistants  
-
----
-
-### ◆ Production & Delivery
-
-`Docker` · `GitHub Actions` · `CI/CD` · `Git` · `Vercel`
-
-I care about:
-
-✅ Reliable deployments  
-✅ Automated testing  
-✅ Maintainable architecture  
-✅ Performance optimization  
-✅ Production readiness  
-✅ Repeatable delivery workflows  
 
 ---
 
@@ -460,16 +391,16 @@ Apply Business Rules
       ↓
 Use AI Where Judgment Helps
       ↓
-Validate the Output
+Validate Output
       ↓
 Human Approval When Necessary
       ↓
-Update the Business System
+Update The System
       ↓
 Monitor / Retry / Recover
 ```
 
-That's the difference between adding AI as a novelty and engineering AI as part of an actual business process.
+That's the difference between adding AI as a novelty and engineering AI as part of a real workflow.
 
 ### ◆ Where I see AI creating value
 
@@ -483,14 +414,14 @@ That's the difference between adding AI as a novelty and engineering AI as part 
 ✅ Sales workflows  
 ✅ Revenue operations  
 ✅ Internal team assistants  
-✅ CRM and API-connected AI workflows  
+✅ CRM and API-connected workflows  
 ✅ Agentic systems with defined boundaries  
 
 > **AI should reduce work without making the system harder to trust.**
 
 ---
 
-## 🟣 Selected Technical Work
+## 🔵 Selected Technical Work
 
 ### ◆ Luxe Attire
 
@@ -498,7 +429,7 @@ That's the difference between adding AI as a novelty and engineering AI as part 
 
 A complete e-commerce application covering both the customer experience and the operational side of commerce.
 
-### System capabilities
+### System Capabilities
 
 ✅ Product management  
 ✅ Inventory and offer management  
@@ -536,7 +467,7 @@ A complete e-commerce application covering both the customer experience and the 
 
 A full-stack platform built around the complete room-booking workflow for co-working environments.
 
-### System capabilities
+### System Capabilities
 
 ✅ Real-time room availability  
 ✅ Scheduling workflows  
@@ -588,7 +519,7 @@ as one connected system.
 
 A multi-threaded Node.js utility designed for API load and stress testing.
 
-### Technical focus
+### Technical Focus
 
 ✅ Node.js `worker_threads`  
 ✅ Parallel processing  
@@ -657,7 +588,6 @@ Production software also needs:
 ✅ Maintainability  
 ✅ Performance  
 ✅ Security considerations  
-✅ Monitoring and observability thinking  
 
 ---
 
@@ -719,29 +649,14 @@ This intersection is where I want most of my work to live.
 
 ## 🟢 Who I Want to Work With
 
-I'm especially interested in conversations with:
-
 ✅ **Founders** building software products  
 ✅ **Startups** building AI-enabled products  
 ✅ **Businesses** with expensive manual workflows  
-✅ **B2B service companies** that need better operational systems  
-✅ **Agencies** needing reliable white-label development  
+✅ **B2B service companies** needing better operational systems  
 ✅ **Product teams** building AI or data-heavy systems  
 ✅ **Companies** needing custom internal tools  
 ✅ **Teams** integrating AI into existing software  
 ✅ **Developers & builders** working on ambitious products  
-
----
-
-## 🟠 Need an Agency?
-
-If you're looking for **AI automation, custom software, full-stack development, integrations, or white-label engineering**, that's what I'm building **Operithm** for.
-
-<p align="center">
-  <a href="https://operithm.vercel.app/">
-    <img src="https://img.shields.io/badge/Work%20With%20Operithm-EA580C?style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
@@ -769,9 +684,6 @@ I'm always interested in a thoughtful conversation.
 <p align="center">
   <a href="https://github.com/tanvirch0750?tab=repositories">
     <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://operithm.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20Operithm-EA580C?style=for-the-badge" />
   </a>
 </p>
 
